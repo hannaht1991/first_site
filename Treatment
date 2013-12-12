@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet treatment.css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Osteoathritis treatments </title>
+</head>
+<body>
+	<h1><strong> Research to find therapies for Osteoarthritis </strong> </h1>
+	<div class="row">
+		<div class="col-md-3"><strong>Name and stage of development of treatment method</strong></div>
+		<div class="col-md-3"><strong>Key findings from research to date </strong></div>
+		<div class="col-md-3"><strong>Necessary further work before clinical application </strong></div>
+		<div class="col-md-3"><strong>References</strong></div>
+</div>
+	<div class="row">
+		<div class="col-md-3"> row1 col1**</div>
+		<div class="col-md-3">row 1 col2**</div>
+		<div class="col-md-3">row 1 col3**</div>
+		<div class="col-md-3">row1 col4**</div>
+</div>
+
+	<div class="row">
+		<div class="col-md-3">
+			<p> row2 col1**</p>
+			</div>
+		<div class="col-md-3">
+			<p> row2 col2**</p> 
+		</div>
+		<div class="col-md-3">
+			<p>row2 col3**></p>
+		</div>
+		<div class="col-md-3">
+			<p>row2 col4""></p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-3">
+			<p> row3 col1**</p>
+			</div>
+		<div class="col-md-3">
+			<p>row3 col2**</p>
+		</div>
+		<div class="col-md-3">
+			<p>row3 col3**></p>
+		</div>
+		<div class="col-md-3">
+			<p>row3 col3**></p>
+		</div>
+	</div>
