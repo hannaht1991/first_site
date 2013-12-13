@@ -51,6 +51,16 @@ img.center {
 	margin-right: 5px;
 	text-align: left;
 }
+.notunderlined {
+	font-size: 20px;
+	font-family: 'Belleza', sans-serif;
+	text-align: left;
+	padding: 10px 20px 10px 20px;
+	color:  solid black;
+	background: rgba(102,255,255,0.9);
+	background-clip: content-box;
+	line-height: 140%;
+}
 div.special {
 text-align:center;
 border: none;
