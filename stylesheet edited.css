@@ -11,14 +11,6 @@ header {
 	padding: 0 10px 0 10px;
 }
 h1 {
-	font-weight: bold;
-	font-family: 'Cantora One', sans-serif;
-	color: rgba(0,0,0,1);
-	font-size: 110px;
-	text-shadow: 3px 3px #66FFFF;
-	letter-spacing:6px;
-	padding: 0px 0px 0px 40px;
-	margin-top: 0;
 	background-color: white;
 	border: 7px solid black;
 	-moz-border-radius: 20px;
@@ -28,8 +20,14 @@ h1 {
 .title {
 	height:30px;
 	width:400px;
-	margin-top: -50px;
+	margin-top: 50px;
 	text-align: center;
+	font-weight: bold;
+	font-family: 'Cantora One', sans-serif;
+	color: rgba(0,0,0,1);
+	font-size: 110px;
+	text-shadow: 3px 3px #66FFFF;
+	letter-spacing:6px;
 }
 
 img {
