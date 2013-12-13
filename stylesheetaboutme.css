@@ -60,5 +60,6 @@ img.center {
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
 	text-decoration: none
-	text-align: right;
+	float: right;
+	overflow: hidden;
 }
