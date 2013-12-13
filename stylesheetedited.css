@@ -16,6 +16,8 @@ h1 {
 	-moz-border-radius: 20px;
 	border-radius: 20px;
 	padding-bottom: 0px;
+	display: block;
+	text-align: center;
 }
 .title {
 	height:30px;
