@@ -51,14 +51,14 @@ img.center {
 	margin-right: 5px;
 	text-align: left;
 }
-#linkedin {
-	margin-left:auto;
-    margin-right:auto;
-	text-align: center;
+div.special {
+text-align:center;
+} 
+div.special a {
+background:transparent;
+color:#699;
 	font-size: 20px;
-	color: black !important;
 	font-weight: bold;
-	text-align: justify;
 	font-family: 'Cantora One', sans-serif;
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
