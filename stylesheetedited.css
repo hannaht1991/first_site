@@ -18,6 +18,9 @@ h1 {
 	padding-bottom: 0px;
 	display: inline-block; 
 	vertical-align: middle;
+	position: fixed;
+	left: 50px;
+	right: 50px;
 }
 .title {
 	height:30px;
