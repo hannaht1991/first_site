@@ -6,7 +6,7 @@ h1 {
 	font-size:50px;
 	text-shadow: 3px 3px #66FFFF;
 	font-weight: italic;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	}
 
 p {
