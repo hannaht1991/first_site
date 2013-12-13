@@ -53,6 +53,8 @@ img.center {
 }
 #linkedin {
 	display: inline-block;
+	text-align: center;
+	font-size: 20px;
 	color: black !important;
 	font-weight: bold;
 	text-align: justify;
@@ -60,6 +62,4 @@ img.center {
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
 	text-decoration: none
-	text-align: center;
-	overflow: hidden;
 }
