@@ -79,11 +79,11 @@ a {
   display: inline-block;
   position: relative;
   overflow: hidden;
-  width: 200px;
-  height: 200px;
-  -moz-border-radius: 200px;
-  border-radius: 200px;
-  -webkit-border-radius:200px;
+  width: 175px;
+  height: 175px;
+  -moz-border-radius: 175px;
+  border-radius: 175px;
+  -webkit-border-radius:175px;
   padding: 5px 10px;
   border: 4px dashed #66FFFF;
   margin-top: 20px;
