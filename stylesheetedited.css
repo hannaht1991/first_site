@@ -82,8 +82,7 @@ border-radius: 200px;
 -webkit-border-radius:200px;
 padding: 5px 10px;
 border: 4px dashed #66FFFF;
-	float: left;
-	margin: 0px, 0px, 0px, 100px;
+	
 }
 .left-align {
 	display: inline-block;
@@ -96,6 +95,5 @@ border-radius: 200px;
 -webkit-border-radius:200px;
 padding: 5px 10px;
 border: 4px dashed #66FFFF;
-margin-top: 20px;float: right;
-	margin: 0px,100px, 0px, 0px;
+
 }
