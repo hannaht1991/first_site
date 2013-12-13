@@ -20,3 +20,12 @@ p {
 	background-clip: content-box;
 	line-height: 140%;
 }
+body {
+margin: 0 auto;
+background-color: rgba(35,35,35,0.9);
+padding: -40px 0px 0px 0px;
+border:5px solid black;
+}
+div {
+	border: 5px solid white;
+}
