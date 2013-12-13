@@ -8,6 +8,8 @@ h1 {
 	text-align: center;
 	font-family: 'Cantora One', sans-serif;
 	font-size: 90px;
+	text-shadow: 3px 3px #66FFFF;
+	font-weight: bold;
 	}
 
 p {
@@ -28,4 +30,9 @@ border:5px solid black;
 }
 div {
 	border: 5px solid white;
+}
+img.center { 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
 }
