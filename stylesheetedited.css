@@ -71,8 +71,8 @@ a {
 	text-decoration: none;
 	margin-right: 5px;
 }
-.lime2 {
-display: inline-block;
+.right-align {
+	display: inline-block;
 position: relative;
 overflow: hidden;
 width: 200px;
@@ -82,13 +82,20 @@ border-radius: 200px;
 -webkit-border-radius:200px;
 padding: 5px 10px;
 border: 4px dashed #66FFFF;
-margin-top: 20px;
-}
-.right-align {
 	float: left;
 	margin: 0px, 0px, 0px, 100px;
 }
 .left-align {
-	float: right;
+	display: inline-block;
+position: relative;
+overflow: hidden;
+width: 200px;
+height: 200px;
+-moz-border-radius: 200px;
+border-radius: 200px;
+-webkit-border-radius:200px;
+padding: 5px 10px;
+border: 4px dashed #66FFFF;
+margin-top: 20px;float: right;
 	margin: 0px,100px, 0px, 0px;
 }
