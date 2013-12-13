@@ -71,12 +71,13 @@ a {
 	text-decoration: none;
 	margin-right: 5px;
 }
-.lime2 {
+#lime2 {
 display: inline-block;
 position: relative;
 overflow: hidden;
 width: 200px;
 height: 200px;
+left: 50px;
 -moz-border-radius: 200px;
 border-radius: 200px;
 -webkit-border-radius:200px;
@@ -84,9 +85,17 @@ padding: 5px 10px;
 border: 4px dashed #66FFFF;
 margin-top: 20px;
 }
-#right-align {
-	margin-right: 50px;
-}
-#left-align {
-	margin-left: 50px;
+#lime3 {
+display: inline-block;
+position: relative;
+overflow: hidden;
+width: 200px;
+height: 200px;
+right: 50px;
+-moz-border-radius: 200px;
+border-radius: 200px;
+-webkit-border-radius:200px;
+padding: 5px 10px;
+border: 4px dashed #66FFFF;
+margin-top: 20px;
 }
