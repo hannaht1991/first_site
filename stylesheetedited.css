@@ -53,7 +53,7 @@ a {
 	font-size: 30px;
 	letter-spacing: 1px;
 	padding-right: 0px;
-	margin: auto; 
+	/*margin: auto;*/ 
 	text-align: right;
 	color: white;
 }
