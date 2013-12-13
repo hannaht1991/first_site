@@ -16,7 +16,7 @@ h1 {
 	-moz-border-radius: 20px;
 	border-radius: 20px;
 	padding-bottom: 0px;
-	display: inline-block;
+	display: block;
 	text-align: center;
 }
 .title {
@@ -71,8 +71,8 @@ a {
 	text-decoration: none;
 	margin-right: 5px;
 }
-.right-align {
-	display: inline-block;
+.lime2 {
+display: inline-block;
 position: relative;
 overflow: hidden;
 width: 200px;
@@ -82,18 +82,11 @@ border-radius: 200px;
 -webkit-border-radius:200px;
 padding: 5px 10px;
 border: 4px dashed #66FFFF;
-	
+margin-top: 20px;
 }
-.left-align {
-	display: inline-block;
-position: relative;
-overflow: hidden;
-width: 200px;
-height: 200px;
--moz-border-radius: 200px;
-border-radius: 200px;
--webkit-border-radius:200px;
-padding: 5px 10px;
-border: 4px dashed #66FFFF;
-
+#right-align {
+	margin-right: 50px;
+}
+#left-align {
+	margin-left: 50px;
 }
