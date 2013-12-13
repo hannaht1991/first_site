@@ -35,6 +35,9 @@ img.center {
     width: 570px;
     height: 355px;
 }
+.h5 {
+	display: block;
+}
 .btn {
 	color: white !important;
 	font-weight: bold;
@@ -46,4 +49,16 @@ img.center {
 	border-radius: 5px;
 	text-decoration: none;
 	margin-right: 5px;
+	text-align: left;
+}
+#linkedin {
+	color: white !important;
+	font-weight: bold;
+	text-align: justify;
+	font-size: 25px;
+	font-family: 'Cantora One', sans-serif;
+	border: 2px solid #66FFFF;
+	border-radius: 5px;
+	text-decoration: none
+	text-align: right;
 }
