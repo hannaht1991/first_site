@@ -16,7 +16,6 @@ h1 {
 	-moz-border-radius: 20px;
 	border-radius: 20px;
 	padding-bottom: 0px;
-	display: inline-block; 
 }
 .title {
 	height:30px;
@@ -37,7 +36,6 @@ img {
 	border-radius: 20px;
 }
 p {
-	display: inline-block;
 	font-size: 20px;
 	font-family: 'Belleza', sans-serif;
 	text-align: left;
