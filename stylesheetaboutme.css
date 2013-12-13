@@ -52,14 +52,14 @@ img.center {
 	text-align: left;
 }
 #linkedin {
+	display: inline-block;
 	color: black !important;
 	font-weight: bold;
 	text-align: justify;
-	font-size: 50px;
 	font-family: 'Cantora One', sans-serif;
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
 	text-decoration: none
-	float: right;
+	text-align: center;
 	overflow: hidden;
 }
