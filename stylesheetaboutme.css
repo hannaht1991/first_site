@@ -32,8 +32,8 @@ img.center {
     display: block; 
     margin-left: auto; 
     margin-right: auto;
-    width: 550px;
-    height: 250px;
+    width: 500px;
+    height: 350px;
 }
 .btn {
 	color: white !important;
