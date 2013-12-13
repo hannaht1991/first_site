@@ -52,6 +52,10 @@ p {
 a {
 	color: white;
 }
+#aboutmetag {
+	text-decoration: none;
+	font-weight: bold;
+}
 .name {
 	font-style: italic;
 	font-size: 30px;
