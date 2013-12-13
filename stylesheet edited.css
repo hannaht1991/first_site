@@ -86,9 +86,9 @@ margin-top: 20px;
 }
 #right-align {
 	float: left;
-	margin: 0px, 20px, 0px, 30px;
+	margin: 0px, 0px, 0px, 50px;
 }
 #left-align {
 	float: right;
-	margin: 0ox,30px, 0px, 20px;
+	margin: 0px,50px, 0px, 0px;
 }
