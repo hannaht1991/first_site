@@ -52,10 +52,10 @@ img.center {
 	text-align: left;
 }
 #linkedin {
-	color: white !important;
+	color: black !important;
 	font-weight: bold;
 	text-align: justify;
-	font-size: 25px;
+	font-size: 50px;
 	font-family: 'Cantora One', sans-serif;
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
