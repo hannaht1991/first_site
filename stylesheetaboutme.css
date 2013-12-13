@@ -39,8 +39,7 @@ img.center {
 	text-align: justify;
 	font-size: 15px;
 	font-family: 'Cantora One', sans-serif;
-	padding-top: 5px;
-	padding-left: 5px;
+	margin-left: 5px;
 	border: 2px solid #66FFFF;
 	border-radius: 5px;
 	text-decoration: none;
