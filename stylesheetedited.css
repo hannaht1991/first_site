@@ -1,4 +1,4 @@
-body{
+body {
 margin: 0 auto;
 background-color: rgba(35,35,35,0.9);
 padding: -40px 0px 0px 0px;
@@ -19,7 +19,7 @@ h1 {
 }
 .title {
 	height:30px;
-	width:400px;
+	width:auto;
 	margin-top: 50px;
 	text-align: center;
 	font-weight: bold;
@@ -28,6 +28,8 @@ h1 {
 	font-size: 110px;
 	text-shadow: 3px 3px #66FFFF;
 	letter-spacing:6px;
+	overflow: hidden;
+	text-align: center;
 }
 
 img {
