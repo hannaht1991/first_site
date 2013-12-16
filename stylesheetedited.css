@@ -92,3 +92,7 @@ a {
   border: 4px outset #66FFFF;
   margin-top: 20px;
   }
+h2.buttonholder {
+	text-align: center;
+	padding-bottom: 20px;
+}
