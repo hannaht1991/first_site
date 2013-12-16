@@ -54,7 +54,7 @@ p {
 	color:  solid black;
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
-	line-height: 170%;
+	line-height: 140%;
 }
 a {
 	color: white;
@@ -97,9 +97,11 @@ a {
   -moz-border-radius: 225px;
   border-radius: 225px;
   -webkit-border-radius:225px;
-  padding: 10px 5px 0px 5px;
-  border: 6px double #66FFFF;
+  padding: 0px 0px 0px 0px;
+  border: 8px double #66FFFF;
+  margin-top: 20px;
   }
+
 h2.buttonholder {
 	text-align: center;
 }
@@ -108,4 +110,18 @@ p.paragraph {
 	margin-left: 20px;
 	margin-right: 20px;
 	border-radius: 100px;
+}
+#first {
+	width: 400px;
+	height: 350px;
+	border: 6px inset black;
+	border-radius: 400px;
+	text-align: left;
+}
+#second {
+	width: 400px;
+	height: 350px;
+	border: 6px inset black;
+	border-radius: 400px;
+	text-align: right;
 }
