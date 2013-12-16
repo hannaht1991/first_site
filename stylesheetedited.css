@@ -115,13 +115,13 @@ p.paragraph {
 	width: 600px;
 	height: 550px;
 	border: 6px inset black;
-	border-radius: 700px;
-	text-align: left;
+	border-radius: 650px;
+	text-align: justify;
 }
 #second {
 	width: 600px;
-	height: 5500px;
+	height: 550px;
 	border: 6px inset black;
 	border-radius: 700px;
-	text-align: right;
+	text-align: justify;
 }
