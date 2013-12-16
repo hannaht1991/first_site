@@ -131,7 +131,7 @@ p.paragraph1 {
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
 	text-align: center;
-	padding: 0px 0px 0px 0px;
+	padding: 0px 10px 0px 10px;
 	color:  solid black;
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
