@@ -71,3 +71,7 @@ margin: 0 auto;
 h5.buttonholder {
 	text-align: center; 
 }
+p.paragraph {
+	border: 2px inset black;
+
+}
