@@ -93,10 +93,10 @@ a {
   position: relative;
   overflow: hidden;
   width: 200px;
-  height: 200x;
-  -moz-border-radius: 200px;
+  height: 225x;
+  -moz-border-radius: 225px;
   border-radius: 200px;
-  -webkit-border-radius:200px;
+  -webkit-border-radius:225px;
   padding: 10px 5px 0px 5px;
   border: 6px double #66FFFF;
   margin-top: 20px;
