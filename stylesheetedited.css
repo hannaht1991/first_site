@@ -103,3 +103,8 @@ a {
 h2.buttonholder {
 	text-align: center;
 }
+p.paragraph {
+	border: 2px inset black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
