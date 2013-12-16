@@ -97,15 +97,16 @@ a {
   -moz-border-radius: 200px;
   border-radius: 200px;
   -webkit-border-radius:200px;
-  padding: 5px 10px;
-  border: 4px outset #66FFFF;
+  padding: 10px 5px 0px 5px;
+  border: 6px double #66FFFF;
   margin-top: 20px;
+  margin-bottom: 20px;
   }
 h2.buttonholder {
 	text-align: center;
 }
 p.paragraph {
-	border: 2px inset black;
+	border: 6px inset black;
 	margin-left: 20px;
 	margin-right: 20px;
 }

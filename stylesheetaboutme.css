@@ -36,6 +36,9 @@ img.center {
     width: 570px;
     height: 300px;
 }
+#click {
+	text-decoration: none;
+}
 .h5 {
 	display: block;
 }
