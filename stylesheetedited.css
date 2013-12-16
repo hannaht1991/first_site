@@ -21,7 +21,7 @@ h1 {
 	border-radius: 20px;
 	padding-bottom: 0px;
 	text-align: center;
-	margin: 0px 40px 20px 40px;
+	margin: 0px 20px 20px 20px;
 }
 .title {
 	height:30px;
@@ -112,16 +112,16 @@ p.paragraph {
 	border-radius: 100px;
 }
 #first {
-	width: 600px;
-	height: 550px;
+	width: 60px;
+	height: 55px;
 	border: 6px inset black;
-	border-radius: 650px;
+	border-radius: 65px;
 	text-align: justify;
 }
 #second {
-	width: 600px;
-	height: 550px;
+	width: 60px;
+	height: 55px;
 	border: 6px inset black;
-	border-radius: 700px;
+	border-radius: 65px;
 	text-align: justify;
 }
