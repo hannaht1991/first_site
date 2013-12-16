@@ -94,7 +94,7 @@ a {
   border-radius: 175px;
   -webkit-border-radius:175px;
   padding: 5px 10px;
-  border: 4px double #66FFFF;
+  border: 4px groove #66FFFF;
   margin-top: 20px;
   }
 h2.buttonholder {
