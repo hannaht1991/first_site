@@ -10,6 +10,9 @@ div {
 header {
 	padding: 0 10px 0 10px;
 }
+h2 {
+	padding-bottom: 5px;
+}
 h1 {
 	display: block;
 	background-color: white;
@@ -66,7 +69,6 @@ a {
 	text-align: right;
 	color: white;
 	padding-top: 5px;
-	margin-top: 5px;
 }
 .btn {
 	color: white !important;
