@@ -73,5 +73,6 @@ h5.buttonholder {
 }
 p.paragraph {
 	border: 2px inset black;
-
+	margin-left: 20px;
+	margin-right: 20px;
 }
