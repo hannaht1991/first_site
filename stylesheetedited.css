@@ -112,16 +112,16 @@ p.paragraph {
 	border-radius: 100px;
 }
 #first {
-	width: 400px;
-	height: 350px;
+	width: 600px;
+	height: 550px;
 	border: 6px inset black;
-	border-radius: 400px;
+	border-radius: 700px;
 	text-align: left;
 }
 #second {
-	width: 400px;
-	height: 350px;
+	width: 600px;
+	height: 5500px;
 	border: 6px inset black;
-	border-radius: 400px;
+	border-radius: 700px;
 	text-align: right;
 }
