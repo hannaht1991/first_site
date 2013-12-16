@@ -80,3 +80,7 @@ p.paragraph {
 width: 23px;
 height: 23px;
 }
+#tina, #mark, #andrew, #prize {
+	color: white;
+	text-decoration: none;
+}
