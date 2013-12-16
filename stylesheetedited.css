@@ -7,9 +7,6 @@ border:5px solid black;
 div {
 	border: 5px solid white;
 }
-h2 {
-	padding-bottom: 20px;
-}
 header {
 	padding: 0 10px 0 10px;
 }
@@ -68,7 +65,7 @@ a {
 	display: block;
 	text-align: right;
 	color: white;
-	padding-bottom: 0px;
+	padding-top: 20px;
 }
 .btn {
 	color: white !important;
