@@ -20,7 +20,7 @@ h1 {
 	text-shadow: 3px 3px rgba(231,84,128,1);
 	color: white;
 	font-family: 'Berkshire Swash', cursive;
-	padding: 10px 20px 10px 20px;
+	padding: 0px 20px 0px 20px;
 	border-width:15px 25px 15px 25px;
 	border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
 	border-clip: content-box;
@@ -42,8 +42,8 @@ a {
 	display: block;
 	text-align: right;
 	color: white;
-	padding-top: 5px;
-	margin-top: 5px;
+	padding-top: 0px;
+	margin-top: 0px;
 }
 
 div {
