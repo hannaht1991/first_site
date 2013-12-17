@@ -6,8 +6,7 @@ border:5px solid black;
 }
 body {
 	border: 5px solid white;
-	background clip: padding-box;
-	padding: 10px 10px 10px 10px;
+	
 }
 h2 {
 	margin-bottom: 5px;
