@@ -8,7 +8,6 @@ div {
 	border: 5px solid white;
 	background clip: padding-box;
 	padding: 10px 10px 10px 10px;
-	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
 }
 header {
 	padding: 0 10px 0 10px;
@@ -16,17 +15,8 @@ header {
 h2 {
 	margin-bottom: 5px;
 }
-/*h1 {
-	display: block;
-	background-color: white;
-	border: 7px solid black;
-	-moz-border-radius: 20px;
-	border-radius: 20px;
-	padding-bottom: 0px;
-	text-align: center;
-	margin: 0px 5px 20px 5px;*/
-}
-.title {
+h1 {
+	
 	height:30px;
 	width:auto;
 	margin-top: 0px;
@@ -119,8 +109,6 @@ h2.buttonholder {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 0px;
-	border-top-left-radius: 100px;
-	border-top-right-radius: 100px;
 	padding: 8px 8px 8px 8px;
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
@@ -129,23 +117,8 @@ h2.buttonholder {
 	color:  solid black;
 	border-clip: padding-box;
 	line-height: 140%;
-  	background-radius: 8px;
-  	border: 20px solid rgba(0, 0, 0, 0.3)
-	}
-.paragraph1 {
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 0px;
-	border-bottom-left-radius: 100px;
-	border-bottom-right-radius: 100px;
-	padding: 8px 8px 8px 8px;
-}
-.paragraph2 {
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 0px;
-	border-radius: 20px;
-	padding: 8px 8px 8px 8px;
+  	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
+  	border: 15px solid rgba(0, 0, 0, 0.3)
 }
 /*#first {
 	width: 60px;
