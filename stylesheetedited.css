@@ -15,6 +15,12 @@ header {
 h2 {
 	margin-bottom: 5px;
 }
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 100px;
+	text-shadow: 3px 3px rgba(227,11,93,1);
+}
 /*h1 {
 	height:30px;
 	width:auto;
@@ -71,7 +77,7 @@ a {
 	font-size: 25px;
 	font-family: 'Cantora One', sans-serif;
 	padding-top: 5px;
-	border: 3px solid rgba(255,0,255,1);
+	border: 3px solid rgba(227,11,93,1);
 	border-radius: 5px;
 	text-decoration: none;
 	margin-right: 5px;
