@@ -20,8 +20,12 @@ h1 {
 	color: white;
 	font-family: 'Berkshire Swash', cursive;
 	border: 15px solid rgba(0, 0, 0, 0.3)
-	}
-
+	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
+}
+#title {
+	padding: 40px, 40x, 40px, 40px;
+	background-color: rgba(0, 0, 0, 0.3)
+}
 a {
 	color: white;
 	text-decoration: none;
