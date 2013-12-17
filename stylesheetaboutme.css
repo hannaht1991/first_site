@@ -59,7 +59,6 @@ div.special {
   color: black;
   text-decoration: none;
   font-size: 30px;
-  border-clip: content-box;
   border: 3px solid rgba(0, 0, 0, 0.3);
   font-family: 'Cantora One', sans-serif;
   } 
