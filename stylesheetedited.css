@@ -42,10 +42,10 @@ a {
 	padding-right: 5px; 
 	display: block;
 	text-align: right;
-	color: white;
+	color: #E0FFFF;
 	padding-top: 0px;
 	margin-top: 10px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 div {
@@ -112,7 +112,7 @@ ul {
 #nav ul ul {
 	display: none;
 	position: absolute;
-	background color: #C2DFFF;
+	background color: #E0FFFF;
 	border: 3px solid #222;
 	margin-left: -3px;
 	max-width: 220px;
