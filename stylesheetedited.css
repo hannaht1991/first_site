@@ -103,3 +103,21 @@ h2.buttonholder {
 	margin: 0;
 	position: relative;
 }
+#nav ul li:hover:ul {
+	display: block;
+}
+#nav ul ul {
+	display: none;
+	position: absolute;
+	background color: #333;
+	border: 3px solid #222;
+	border-top: 0;
+	margin-left: -3px;
+	max-width: 200px;
+}
+#nav ul ul li a, visited {
+	color: #ccc;
+}
+#nav ul ul li a:hover {
+	color: #099;
+}
