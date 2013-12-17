@@ -52,10 +52,13 @@ p {
 	text-align: center;
 	padding: 10px 20px 10px 20px;
 	color:  solid black;
-	background: rgba(102,255,255,0.9);
-	background-clip: content-box;
+	border-clip: padding-box;
 	line-height: 140%;
-	border: 3px inset black;
+	border: 3px inset #66FFFF;
+	background: url("http://images2.layoutsparks.com/1/212421/lacy-blue-pattern-nice.jpg");
+  	background-radius: 8px;
+  	border: 20px solid rgba(0, 0, 0, 0.3)
+
 }
 a {
 	color: white;
@@ -104,20 +107,22 @@ a {
   border: 8px double #66FFFF;
   margin-top: 20px;
   background-color: black;
+  
+
   }
 
 h2.buttonholder {
 	text-align: center;
 }
-p.paragraph {
+.paragraph {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 0px;
 	border-top-left-radius: 100px;
 	border-top-right-radius: 100px;
 	padding: 8px 8px 8px 8px;
-	
-p.paragraph1 {
+	}
+.paragraph1 {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 0px;
@@ -125,7 +130,7 @@ p.paragraph1 {
 	border-bottom-right-radius: 100px;
 	padding: 8px 8px 8px 8px;
 }
-p.paragraph2 {
+.paragraph2 {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 0px;
