@@ -26,24 +26,13 @@ h1 {
 	border-clip: content-box;
 	letter-spacing: 4px;
 	height: 120px;
-	/*background: linear-gradient(#BCED91 49%, transparent 49%),
-        linear-gradient(-45deg, white 33%, transparent 33%) 0 50%,
-        white linear-gradient(45deg, white 33%, #BCED91 33%) 0 50%;
-    background-repeat: repeat-x;
-    background-size: 1px 100%, 40px 40px, 40px 40px;
-	/*border: 15px solid rgba(0, 0, 0, 0.3)
-	padding: 10px 20px 10px 20px;
-	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
-	background-clip: padding-box;*/
-}
+
 a {
 	color: white;
 	text-decoration: none;
 	font-weight: bold;
 }
-#aboutmetag {
-	text-decoration: none;
-	font-weight: bold;
+
 }
 .name {
 	font-style: italic;
@@ -89,11 +78,16 @@ h2.buttonholder {
   	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   	border: 15px solid rgba(0, 0, 0, 0.3)
 }
+ul {
+	font-size:22px;
+	font-weight: bold;
+	font-family: 'Cantora One', sans-serif;
+}
 #nav {
 	background-color: #222;
 }
 #nav_wrapper {
-	width: 960px;
+	width: inherit;
 	margin: 0 auto;
 	text-align: left;
 }
