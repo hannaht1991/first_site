@@ -97,3 +97,9 @@ h2.buttonholder {
 	margin: 0 auto;
 	text-align: left;
 }
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
