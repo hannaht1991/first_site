@@ -19,9 +19,9 @@ html {
 p {
 	font-size: 20px;
 	font-family: 'Belleza', sans-serif;
-	text-align: left;
+	text-align: justify;
 	text-decoration: none;
-	padding: 10px 20px 10px 20px;
+	padding: 20px 20px 20px 20px;
 	color:  white;
 	/*background: rgba(102,255,255,0.9);*/
 	background-clip: content-box;
@@ -54,12 +54,12 @@ div.special {
   text-align:center;
   background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   background-size: 300px 100px;
-  color: black;
+  /*color: black;
   text-decoration: none;
   font-size: 30px;
   border: 3px solid rgba(0, 0, 0, 0.3);
   font-family: 'Cantora One', sans-serif;
-  } 
+  } */
 
 p.paragraph {
 	margin: 20px 20px 20px 20px;
