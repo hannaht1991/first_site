@@ -113,13 +113,13 @@ ul {
 	position: absolute;
 	background color: rgba(35,35,35,0.9);
 	border: 3px solid #222;
-	border-top: 0;
 	margin-left: -3px;
 	max-width: 170px;
 }
 #nav ul ul li a, visited {
 	color: #FF9900;
 	padding-top: 0;
+	border: 3px solid #222;
 }
 #nav ul ul li a:hover {
 	color: #FF9900;
