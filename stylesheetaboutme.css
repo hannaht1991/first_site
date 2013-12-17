@@ -33,11 +33,7 @@ body {
 	border-clip: padding-box;
 	padding: 10px 10px 10px 10px;
 }
-span.date {
-	color: #C12283;
-	font-size: 20px;
-	font-family: 'Belleza', sans-serif;
-}
+
 div {
 	padding-bottom: 10px;
 	margin-bottom: 10px;
@@ -52,9 +48,7 @@ img.center {
 }
 
 h5 {
-	font-size: 20px;
-	color:  #C12283;
-	font-weight: bold;
+	display: block;
 }
 
 div.special {
@@ -70,7 +64,7 @@ div.special {
 
 p.paragraph {
 	margin: 20px 20px 20px 20px;
-	padding: 0px 20px 0px 20px;
+	padding: 20px 20px 20px 20px;
 	border-width:15px 25px 15px 25px;
 	border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
 	border-clip: content-box;
