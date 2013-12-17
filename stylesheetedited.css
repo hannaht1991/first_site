@@ -54,7 +54,7 @@ a {
 	text-align: justify;
 	font-size: 22px;
 	font-family: 'Cantora One', sans-serif;
-	padding-top: 5px;
+	padding-top: 5px 5px 5px 5px;
 	border: 3px solid rgba(231,84,128,1);
 	border-radius: 5px;
 	text-decoration: none;
