@@ -99,8 +99,8 @@ h2.buttonholder {
 }
 #nav ul {
 	list-style-type: none;
-	padding: 5px 5px 5px 5px;
-	margin: 0;
+	padding: 0px 5px 0px 5px;
+	margin: 0px 10px 0px 10px;
 	position: relative;
 }
 #nav ul li {
