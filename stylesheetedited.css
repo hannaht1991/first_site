@@ -103,6 +103,9 @@ h2.buttonholder {
 	margin: 0;
 	position: relative;
 }
+nav ul li {
+	display: inline-block;
+}
 #nav ul li:hover:ul {
 	display: block;
 }
