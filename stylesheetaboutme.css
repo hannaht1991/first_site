@@ -71,9 +71,7 @@ margin: 0 auto;
 	text-decoration: none;
 	text-shadow: none;
 }
-h5.buttonholder {
-	text-align: center; 
-}
+
 p.paragraph {
 	border: 2px inset black;
 	margin-left: 20px;
@@ -86,4 +84,64 @@ height: 23px;
 #tina, #mark, #andrew, #prize {
 	color: white;
 	text-decoration: none;
+}
+ul {
+	font-size:30px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Cantora One', sans-serif;
+	color: #C12283;
+}
+#nav {
+	text-align: center;
+}
+#nav_wrapper {
+	width: inherit;
+	margin: 0 auto;
+	text-align: center;
+}
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0px 10px 0px 10px;
+	position: relative;
+}
+#nav ul li {
+	display: inline-block;
+}
+#nav ul li:hover {
+	background-color: #E0FFFF;
+}
+#nav ul li img {
+	vertical-align: middle;
+	padding-left: 5px;
+}
+#nav ul li a, visited {
+	color: #C12283;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+#nav ul li a:hover {
+	color: #C12283;
+	text-decoration: none;
+}
+#nav ul li:hover ul {
+	display: block;
+}
+#nav ul ul {
+	display: none;
+	position: absolute;
+	background color: #E0FFFF;
+	border: 3px solid #222;
+	margin-left: -3px;
+	max-width: 220px;
+}
+#nav ul ul li a, visited {
+	color: #FF9900;
+	padding-top: 0;
+	font-size: 30px;
+}
+#nav ul ul li a:hover {
+	color: #FF9900;
 }
