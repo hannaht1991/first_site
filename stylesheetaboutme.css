@@ -24,6 +24,7 @@ p {
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
 	line-height: 140%;
+
 }
 body {
 	border: 8px solid white;
@@ -61,27 +62,13 @@ img.center {
 	margin-right: 5px;
 	text-align: left;
 }
-div.special {
-text-align:center;
-border: none;
-} 
-div.special a {
-background:transparent;
-color:black;
-margin: 0 auto;
-	font-size: 30px;
-	font-weight: bold;
-	font-family: 'Cantora One', sans-serif;
-	border: 2px solid #66FFFF;
-	border-radius: 5px;
-	text-decoration: none;
-	text-shadow: none;
-}
+
 
 p.paragraph {
-	border: 2px inset black;
 	margin-left: 20px;
 	margin-right: 20px;
+	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
+  	border: 15px solid rgba(0, 0, 0, 0.3)
 }
 #happy {
 width: 23px;
