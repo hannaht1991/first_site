@@ -10,6 +10,9 @@ body {
 	padding: 10px 10px 10px 10px;
 
 }
+div {
+	border: 3px solid white;
+}
 h2 {
 	margin-bottom: 5px;
 }
