@@ -71,8 +71,8 @@ ul {
 	font-family: 'Cantora One', sans-serif;
 	color: rgba(205,255,255,1);
 }
-/*#nav {
-	background-color: rgba(35,35,35,0.9);*/
+#nav {
+	text-align: center;
 }
 #nav_wrapper {
 	width: inherit;
