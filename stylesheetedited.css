@@ -45,7 +45,7 @@ a {
 	color: white;
 	padding-top: 0px;
 	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 div {
@@ -71,14 +71,14 @@ ul {
 	font-family: 'Cantora One', sans-serif;
 	color: rgba(205,255,255,1);
 }
-#nav {
-	background-color: rgba(35,35,35,0.9);
+/*#nav {
+	background-color: rgba(35,35,35,0.9);*/
 }
 #nav_wrapper {
 	width: inherit;
 	margin: 0 auto;
 	text-align: center;
-	background-color: rgba(35,35,35,0.9);
+	/*background-color: rgba(35,35,35,0.9);*/
 }
 #nav ul {
 	list-style-type: none;
