@@ -121,6 +121,17 @@ h2.buttonholder {
 	border-top-left-radius: 100px;
 	border-top-right-radius: 100px;
 	padding: 8px 8px 8px 8px;
+	font-size: 25px;
+	font-family: 'Belleza', sans-serif;
+	text-align: center;
+	padding: 10px 20px 10px 20px;
+	color:  solid black;
+	border-clip: padding-box;
+	line-height: 140%;
+	border: 3px inset #66FFFF;
+	background: url("http://images2.layoutsparks.com/1/212421/lacy-blue-pattern-nice.jpg");
+  	background-radius: 8px;
+  	border: 20px solid rgba(0, 0, 0, 0.3)
 	}
 .paragraph1 {
 	margin-left: 20px;
