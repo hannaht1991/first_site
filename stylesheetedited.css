@@ -119,7 +119,6 @@ ul {
 #nav ul ul li a, visited {
 	color: #FF9900;
 	padding-top: 0;
-	border: 3px solid #222;
 }
 #nav ul ul li a:hover {
 	color: #FF9900;
