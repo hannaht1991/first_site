@@ -99,12 +99,25 @@ h2.buttonholder {
 }
 #nav ul {
 	list-style-type: none;
-	padding: 0px 5px 0px 5px;
+	padding: 0;
 	margin: 0px 10px 0px 10px;
 	position: relative;
 }
 #nav ul li {
 	display: inline-block;
+}
+#nav ul li:hover {
+	background-color: #333;
+}
+#nav ul li a, visited {
+	color: #ccc;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+#nav ul li a:hover {
+	color: #ccc;
+	text-decoration: none;
 }
 #nav ul li:hover ul {
 	display: block;
