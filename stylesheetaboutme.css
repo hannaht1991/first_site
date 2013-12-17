@@ -51,8 +51,10 @@ img.center {
     height: 300px;
 }
 
-.h5 {
-	display: block;
+h5 {
+	font-size: 20px;
+	color:  #C12283;
+	font-weight: bold;
 }
 
 div.special {
