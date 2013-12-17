@@ -82,6 +82,7 @@ ul {
 	font-size:22px;
 	font-weight: bold;
 	font-family: 'Cantora One', sans-serif;
+	color: #CDFFFF;
 }
 #nav {
 	background-color: #222;
@@ -130,8 +131,8 @@ ul {
 	max-width: 200px;
 }
 #nav ul ul li a, visited {
-	color: #ccc;
+	color: #FF9900;
 }
 #nav ul ul li a:hover {
-	color: #099;
+	color: #FF9900;
 }
