@@ -15,7 +15,7 @@ header {
 h2 {
 	margin-bottom: 5px;
 }
-h1 {
+/*h1 {
 	height:30px;
 	width:auto;
 	text-align: center;
@@ -27,12 +27,9 @@ h1 {
 	text-shadow: 3px 3px rgba(255,0,255,1);
 	letter-spacing:6px;
 	overflow: hidden;
-}
+}*/
 
-/*img {
-	margin:0px 0px 20px 0px;
-	border: 2px solid #66FFFF;
-	border-radius: 20px;*/
+
 }
 p {
 	font-size: 25px;
@@ -74,27 +71,12 @@ a {
 	font-size: 25px;
 	font-family: 'Cantora One', sans-serif;
 	padding-top: 5px;
-	border: 3px solid black;
+	border: 3px solid rgba(255,0,255,1);
 	border-radius: 5px;
 	text-decoration: none;
 	margin-right: 5px;
 }
 
- /*.lime2 {
-  display: inline-block;
-  position: relative;
-  overflow: hidden;
-  width: 225px;
-  height: 200px;
-  -moz-border-radius: 225px;
-  border-radius: 225px;
-  -webkit-border-radius:225px;
-  padding: 0px 0px 0px 0px;
-  border: 8px double #66FFFF;
-  margin-top: 20px;
-  background-color: black;
-  
-*/
 
 h2.buttonholder {
 	text-align: center;
@@ -113,18 +95,4 @@ h2.buttonholder {
 	line-height: 140%;
   	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   	border: 15px solid rgba(0, 0, 0, 0.3)
-}
-/*#first {
-	width: 60px;
-	height: 55px;
-	border: 6px inset black;
-	border-radius: 65px;
-	text-align: justify;
-}
-#second {
-	width: 60px;
-	height: 55px;
-	border: 6px inset black;
-	border-radius: 65px;
-	text-align: justify;
 }
