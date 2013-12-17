@@ -89,3 +89,11 @@ h2.buttonholder {
   	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   	border: 15px solid rgba(0, 0, 0, 0.3)
 }
+#nav {
+	background-color: #222;
+}
+#nav_wrapper {
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+}
