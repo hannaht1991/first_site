@@ -89,7 +89,3 @@ h2.buttonholder {
   	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   	border: 15px solid rgba(0, 0, 0, 0.3)
 }
-$.custom-dropdown-button {
-  @include button();
-  @include dropdown-button();
-}
