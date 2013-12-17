@@ -115,11 +115,12 @@ ul {
 	background color: #C2DFFF;
 	border: 3px solid #222;
 	margin-left: -3px;
-	max-width: 170px;
+	max-width: 220px;
 }
 #nav ul ul li a, visited {
 	color: #FF9900;
 	padding-top: 0;
+	font-size: 30px;
 }
 #nav ul ul li a:hover {
 	color: #FF9900;
