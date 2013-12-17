@@ -116,7 +116,7 @@ p.paragraph {
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
 	text-align: center;
-	padding: 0px 8px 0px 8px;
+	padding: 8px 8px 8px 8px;
 	color:  solid black;
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
@@ -132,7 +132,7 @@ p.paragraph1 {
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
 	text-align: center;
-	padding: 0px 8px 0px 8px;
+	padding: 8px 8px 8px 8px;
 	color:  solid black;
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
@@ -147,7 +147,7 @@ p.paragraph2 {
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
 	text-align: center;
-	padding: 0px 8px 0px 8px;
+	padding: 8px 8px 8px 8px;
 	color:  solid black;
 	background: rgba(102,255,255,0.9);
 	background-clip: content-box;
