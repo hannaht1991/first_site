@@ -66,8 +66,9 @@ div {
   	border: 15px solid rgba(0, 0, 0, 0.3)
 }
 ul {
-	font-size:22px;
+	font-size:30px;
 	font-weight: bold;
+	font-style: italic;
 	font-family: 'Cantora One', sans-serif;
 	color: #C12283;
 }
@@ -117,9 +118,9 @@ ul {
 	max-width: 170px;
 }
 #nav ul ul li a, visited {
-	color: #C2DFFF;
+	color: #FF9900;
 	padding-top: 0;
 }
 #nav ul ul li a:hover {
-	color: #C2DFFF;
+	color: #FF9900;
 }
