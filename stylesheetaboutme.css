@@ -36,7 +36,7 @@ body {
 span.date {
 	color: #C12283;
 	font-size: 20px;
-	font-family: 'Belleza', sans-serif;;
+	font-family: 'Belleza', sans-serif;
 }
 div {
 	padding-bottom: 10px;
@@ -59,7 +59,7 @@ div.special {
   text-align:center;
   background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
   background-size: 300px 100px;
-  color: black;
+  color: #C12283;
   text-decoration: none;
   font-size: 30px;
   border: 3px solid rgba(0, 0, 0, 0.3);
