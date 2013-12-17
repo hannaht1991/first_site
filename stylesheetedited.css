@@ -16,23 +16,17 @@ h2 {
 	margin-bottom: 5px;
 }
 h1 {
-	
 	height:30px;
 	width:auto;
-	margin-top: 0px;
 	text-align: center;
 	font-weight: bold;
 	font-family: 'Cantora One', sans-serif;
 	color: rgba(0,0,0,1);
 	font-size: 110px;
 	text-decoration: underline;
-	text-shadow: 3px 3px #66FFFF;
+	text-shadow: 3px 3px rgba(255,0,255,1);
 	letter-spacing:6px;
 	overflow: hidden;
-	text-align: center;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-top: -20px;
 }
 
 /*img {
