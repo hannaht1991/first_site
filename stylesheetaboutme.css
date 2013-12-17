@@ -23,7 +23,7 @@ p {
 	text-decoration: none;
 	padding: 10px 20px 10px 20px;
 	color:  solid black;
-	background: rgba(102,255,255,0.9);
+	/*background: rgba(102,255,255,0.9);*/
 	background-clip: content-box;
 	line-height: 140%;
 
@@ -54,8 +54,11 @@ img.center {
 
 div.special {
   text-align:center;
-  border: none;
+  background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
+  color: black;
+  border: border: 3px solid rgba(0, 0, 0, 0.3);
   } 
+  
 p.paragraph {
 	margin-left: 20px;
 	margin-right: 20px;
