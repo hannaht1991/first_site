@@ -121,10 +121,10 @@ ul {
 	max-width: 220px;
 }
 #nav ul ul li a, visited {
-	color: #FF9900;
+	color: #C12283;
 	padding-top: 0;
 	font-size: 30px;
 }
 #nav ul ul li a:hover {
-	color: #FF9900;
+	color: #C12283;
 }

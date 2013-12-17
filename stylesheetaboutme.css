@@ -2,11 +2,13 @@ h1 {
 	display: block;
 	padding-bottom: 0px;
 	text-align: center;
+	color: white;
 	font-family: 'Cantora One', sans-serif;
-	font-size:50px;
-	text-shadow: 3px 3px #66FFFF;
+	font-size:70px;
+	text-shadow: 3px 3px #C12283;
 	font-weight: italic;
 	text-decoration: underline;
+	letter-spacing: 2px;
 	}
 html {
 	margin: 0 auto;
@@ -49,19 +51,6 @@ img.center {
 .h5 {
 	display: block;
 }
-.btn {
-	color: white;
-	font-weight: bold;
-	text-align: justify;
-	font-size: 25px;
-	font-family: 'Cantora One', sans-serif;
-	margin-left: 5px;
-	border: 2px solid #66FFFF;
-	border-radius: 5px;
-	text-decoration: none;
-	margin-right: 5px;
-	text-align: left;
-}
 
 div.special {
   text-align:center;
@@ -70,8 +59,10 @@ div.special {
 p.paragraph {
 	margin-left: 20px;
 	margin-right: 20px;
-	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
-  	border: 15px solid rgba(0, 0, 0, 0.3)
+	padding: 0px 20px 0px 20px;
+	border-width:15px 25px 15px 25px;
+	border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
+	border-clip: content-box;
 }
 #happy {
 width: 23px;
@@ -135,10 +126,10 @@ ul {
 	max-width: 220px;
 }
 #nav ul ul li a, visited {
-	color: #FF9900;
+	color: #C12283;
 	padding-top: 0;
 	font-size: 30px;
 }
 #nav ul ul li a:hover {
-	color: #FF9900;
+	color: #C12283;
 }
