@@ -30,7 +30,9 @@ body {
 	border-clip: padding-box;
 	padding: 10px 10px 10px 10px;
 }
-
+div {
+	padding-bottom: 10px;
+}
 img.center { 
     display: block; 
     margin-left: auto; 
