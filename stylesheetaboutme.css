@@ -8,7 +8,12 @@ h1 {
 	font-weight: italic;
 	text-decoration: underline;
 	}
-
+html {
+	margin: 0 auto;
+	background-color: rgba(35,35,35,0.9);
+	/*padding: -40px 0px 0px 0px;*/
+	border:8px solid black;
+	}
 p {
 	font-size: 20px;
 	font-family: 'Belleza', sans-serif;
@@ -21,15 +26,11 @@ p {
 	line-height: 140%;
 }
 body {
-margin: 0 auto;
-background-color: rgba(35,35,35,0.9);
-padding: -40px 0px 0px 0px;
-border:5px solid black;
+	border: 8px solid white;
+	border-clip: padding-box;
+	padding: 10px 10px 10px 10px;
 }
-div {
-	border: 3px solid white;
-	padding-bottom: 20px;
-}
+
 img.center { 
     display: block; 
     margin-left: auto; 
