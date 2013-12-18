@@ -14,7 +14,7 @@ html {
 	margin: 0 auto;
 	background-color: rgba(35,35,35,0.9);
 	/*padding: -40px 0px 0px 0px;*/
-	border:8px solid black;
+	border:8px solid #E0FFFF;
 	}
 p {
 	font-size: 20px;
@@ -29,7 +29,7 @@ p {
 
 }
 body {
-	border: 8px solid white;
+	border: 8px solid #C12283;
 	border-clip: padding-box;
 	padding: 10px 10px 10px 10px;
 }
