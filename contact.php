@@ -26,6 +26,5 @@
 	<h1> It's really easy to get in touch... </h1>
 	<h2> And it would be really great to hear from you!</h2>
 
-
 </body>
 </html>
