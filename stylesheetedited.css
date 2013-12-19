@@ -35,7 +35,7 @@ h1 {
 #click {
 	color: black;
 	text-decoration: none;
-	font-weight: bold;
+	font-style: italic;
 }
 
 .name {
@@ -61,6 +61,7 @@ div {
 	padding: 8px 8px 8px 8px;
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
+	font-weight: bold;
 	text-align: center;
 	color:  black;
 	border-clip: padding-box;
