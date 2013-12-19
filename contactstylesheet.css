@@ -1,0 +1,83 @@
+h1 {
+	display: block;
+	padding-bottom: 0px;
+	text-align: center;
+	color: white;
+	font-family: 'Cantora One', sans-serif;
+	font-size:70px;
+	text-shadow: 3px 3px #C12283;
+	font-weight: italic;
+	text-decoration: underline;
+	letter-spacing: 2px;
+	}
+html {
+	margin: 0 auto;
+	background-color: rgba(35,35,35,0.9);
+	/*padding: -40px 0px 0px 0px;*/
+	border:8px solid #E0FFFF;
+	}ul {
+	font-size:30px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Cantora One', sans-serif;
+	color: #C12283;
+}
+body {
+	border: 8px solid #C12283;
+	border-clip: padding-box;
+	padding: 10px 10px 10px 10px;
+}
+
+#nav {
+	text-align: center;
+}
+#nav_wrapper {
+	width: inherit;
+	margin: 0 auto;
+	text-align: center;
+}
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0px 10px 0px 10px;
+	position: relative;
+}
+#nav ul li {
+	display: inline-block;
+}
+#nav ul li:hover {
+	background-color: #E0FFFF;
+}
+#nav ul li img {
+	vertical-align: middle;
+	padding-left: 5px;
+}
+#nav ul li a, visited {
+	color: #C12283;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+#nav ul li a:hover {
+	color: #C12283;
+	text-decoration: none;
+}
+#nav ul li:hover ul {
+	display: block;
+}
+#nav ul ul {
+	display: none;
+	position: absolute;
+	background color: #E0FFFF;
+	border: 3px solid #222;
+	margin-left: -3px;
+	max-width: 220px;
+}
+#nav ul ul li a, visited {
+	color: #C12283;
+	padding-top: 0;
+	font-size: 30px;
+}
+#nav ul ul li a:hover {
+	color: #C12283;
+}
