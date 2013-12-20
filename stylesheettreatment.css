@@ -8,14 +8,15 @@ body {
 	border: 8px solid #C12283;
 	border-clip: padding-box;
 	padding: 20px 20px 20px 20px;
+	margin: 10px 10px 10px 10px;
 }
 div {
 	background-color: rgba(35,35,35,0.9);
 }
-.col-md-3 {
+div.col-md-3 {
 	background: rgba(35,35,35,0.9) !important;
 }
-.row {
+div.row {
 	background: rgba (35,35,35,0.9)!important;
 }
 h1 {
