@@ -1,7 +1,4 @@
-* {
-	margin: 0;
-	padding: 0;
-}
+
 body {
 	background: #fff;
 	text-align: center;
@@ -25,6 +22,7 @@ body {
 	border: 8px solid #C12283;
 	border-clip: padding-box;
 	padding: 10px 10px 10px 10px;
+}
 h1 {
 	text-align: center;
 	font-weight: bold;
