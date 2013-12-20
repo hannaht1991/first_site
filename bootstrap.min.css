@@ -38,14 +38,14 @@ template {
   display: none;
 }
 
-html {
-  font-family: 'Belleza', sans-serif;
+/*  font-family: 'Belleza', sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-
+*/
 body {
   margin: 0;
+  padding: 10px 10px 10px 10px;
 }
 
 a {
@@ -265,14 +265,14 @@ table {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: rgba(35,35,35,0.9) !important;
   }
   .navbar {
     display: none;
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: rgba(35,35,35,0.9) !important;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
@@ -5578,7 +5578,7 @@ a.list-group-item.active:focus .list-group-item-text {
 
 .panel {
   margin-bottom: 20px;
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);

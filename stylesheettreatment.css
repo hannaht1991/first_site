@@ -15,7 +15,7 @@ div {
 h1 {
 	text-align: center;
 	font-weight: bold;
-	font-size: 60px;
+	font-size: 80px;
 	text-shadow: 3px 3px #C12283;
 	color: white;
 	font-family: 'Berkshire Swash', cursive;
@@ -24,7 +24,7 @@ h1 {
 	border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
 	border-clip: content-box;
 	letter-spacing: 1px;
-	height: 80px;
+	height: 100px;
 	margin-bottom: 15px;
 }
 ul {
@@ -42,6 +42,7 @@ ul {
 	margin: 0 auto;
 	text-align: center;
 	background-color: rgba(35,35,35,0.9);
+	background: transparent;
 }
 #nav ul {
 	list-style-type: none;
