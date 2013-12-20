@@ -60,12 +60,12 @@ a:active,
 a:hover {
   outline: 0;
 }
-
+/*
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
 }
-
+*/
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -213,7 +213,8 @@ textarea {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  padding: 5px;
+  padding: 10px;
+  margin: 10px;
 }
 
 @media print {
@@ -431,7 +432,6 @@ h6 .small,
   color: #999999;
 }
 
-h1,
 h2,
 h3 {
   margin-top: 20px;
