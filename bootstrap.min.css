@@ -699,12 +699,6 @@ blockquote:after {
   content: "";
 }
 
-address {
-  margin-bottom: 20px;
-  font-style: normal;
-  line-height: 1.428571429;
-}
-
 code,
 kbd,
 pre,
@@ -1823,7 +1817,7 @@ fieldset {
   margin: 0;
   border: 0;
 }
-
+/*
 legend {
   display: block;
   width: 100%;
@@ -2519,7 +2513,7 @@ fieldset[disabled] .btn-success.active {
 .open .dropdown-toggle.btn-info {
   background-image: none;
 }
-
+/*
 .btn-info.disabled,
 .btn-info[disabled],
 fieldset[disabled] .btn-info,
