@@ -7,7 +7,7 @@ html {
 	border:8px solid #E0FFFF;
 	}
 
-	ul {
+ul {
 	font-size:30px;
 	font-weight: bold;
 	font-style: italic;
@@ -35,7 +35,7 @@ h1 {
 	border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
 	border-clip: content-box;
 	letter-spacing: 1px;
-	height: 200px;
+	height: 160px;
 	width: 700
 	margin-bottom: 10px;
 }
@@ -43,7 +43,7 @@ h1 {
 	width: 500px;
 }
 #subtitle {
-	width: 300px;
+	width: 700px;
 }
 h2 {
 	font-family:'Cantora One', sans-serif;
