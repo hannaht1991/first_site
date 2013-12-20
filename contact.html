@@ -1,67 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-	 <script src="/assets/jquery.js"></script>
-	<link type="text/css" rel="stylesheet" href="contactstylesheet.css"/>
-	<link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Cantora+One' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Berkshire+Swash' rel='stylesheet' type='text/css'>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title> Contact details </title>
+
+
+<!DOCTYPE html PUBLIC"-W3C//DTD XHTML 1.0 Transitional //EN"
+	http://www.w3.org/TR/xhtml/DTD/xhtml-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title> How to contact me! </title>
+<meta http-equiv="Content-Type" content="text.html; charset=UTF-8">
+<script src="/assets/jquery.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Cantora+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-	  <link href='dist/css/bootstrap.css' rel='stylesheet'>
-	<div id="nav">
-			<div id="nav_wrapper">
-				<ul>
-					<li><a href="index.html">Home</a></li><li>
-					<a href="#">About me <img src="http://upload.wikimedia.org/wikipedia/en/4/41/Icon-DownArrow.GIF"</a><ul>
-						<li><a href="aboutme.html">Research </a></li>
-						<li><a href="contact.html">Contact </a></li>
-					</ul></li><li>
-					<a href="treatment.html">Osteoarthritis treatments </a></li><li>
-					<a href="#">Osteoarthritis prevention </a></li>
-				</ul>
-			</div>
-		</div>
-	<h1> It's really easy to get in touch... </h1>
-	<h2> And it would be really great to hear from you!</h2>
+	<div id="wrapper">
+		<h1> How to contact Hannah </h1>
 
-<form action="https://docs.google.com/forms/d/16faBBpyeqEBbHDyhM2K6s0i6UXBckz9vOQGwKrJKyN0/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
-  <ol style="padding-left: 0">
-    <div class="ss-form-question errorbox-good">
-      <div dir="ltr" class="ss-item  ss-text">
-        <div class="ss-form-entry">
-          <label class="ss-q-item-label" for="entry_1087713693">
-            <div class="ss-q-title">Name</div>
-            <div class="ss-q-help ss-secondary-text" dir="ltr">
-            </div>
-          </label>
-          <input type="text" name="entry.1087713693" value="" class="ss-q-short" id="entry_1087713693" dir="auto">
-        </div>
-      </div>
-    </div>
-    <div class="ss-form-question errorbox-good">
-      <div dir="ltr" class="ss-item  ss-text">
-        <div class="ss-form-entry">
-          <label class="ss-q-item-label" for="entry_1239878056">
-            <div class="ss-q-title">Email
-            </div>
-            <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
-          </label>
-          <input type="text" name="entry.1239878056" value="" class="ss-q-short" id="entry_1239878056" dir="auto">
-        </div>
-      </div>
-    </div>
-    <input type="hidden" name="draftResponse" value="[]">
-    <input type="hidden" name="pageHistory" value="0">
-    <div class="ss-item ss-navigate">
-      <div class="ss-form-entry" id="navigation-buttons" dir="ltr" style="display: inline-block">
-        <input type="submit" name="submit" value="Submit" id="ss-submit">
-        <div class="ss-secondary-text">Never submit passwords through Google Forms.</div>
-      </div>
-    </div>
-  </ol>
+
+
+<div id ="contact form">
+<form name="contact" action="form_process.php" method="post">
+	<label for="name">Name:</label>
+	<input type="text" name="name"/>
+	<label for="email">Email: </label>
+	<input type="email" name="email">
+	<label for="comments">Comments:</label>
+	<textarea mame="comments" cols="15" rows="10"></textarea>
+	<input type="submit" name="submit" class="submit" value="Submit" />
 </form>
+<div style="clear:both;"></div>
+</div>
+</div>
 </body>
 </html>
