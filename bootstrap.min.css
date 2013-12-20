@@ -712,7 +712,7 @@ blockquote.pull-right .small:after {
 blockquote:before,
 blockquote:after {
   content: "";
-}
+}*/
 
 address {
   margin-bottom: 20px;
@@ -762,7 +762,7 @@ pre code {
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
-}*/
+}
 .container {
   padding-right: 15px;
   padding-left: 15px;
