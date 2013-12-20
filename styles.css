@@ -36,14 +36,7 @@ h1 {
 	border-clip: content-box;
 	letter-spacing: 1px;
 	height: 160px;
-	width: 700
 	margin-bottom: 10px;
-}
-#title {
-	width: 500px;
-}
-#subtitle {
-	width: 700px;
 }
 h2 {
 	font-family:'Cantora One', sans-serif;
