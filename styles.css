@@ -38,6 +38,12 @@ h1 {
 	height: 120px;
 	margin-bottom: 10px;
 }
+#title {
+	width: 500px;
+}
+#subtitle {
+	width: 300px;
+}
 h2 {
 	font-family:'Cantora One', sans-serif;
 	color: #C12283;
