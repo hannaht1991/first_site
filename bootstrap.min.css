@@ -7,7 +7,7 @@
 
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 
-article,
+/*article,
 aside,
 details,
 figcaption,
@@ -20,7 +20,7 @@ nav,
 section,
 summary {
   display: block;
-}
+}*/
 
 audio,
 canvas,
@@ -813,8 +813,8 @@ pre code {
 }
 
 .row {
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 .row:before,
@@ -3618,7 +3618,7 @@ input[type="button"].btn-block {
 }
 
 .dropup .dropdown-menu,
-.navbar-fixed-bottom .dropdown .dropdown-menu {
+.bar-fixed-bottom .dropdown .dropdown-menu {
   top: auto;
   bottom: 100%;
   margin-bottom: 1px;
