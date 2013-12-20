@@ -14,6 +14,7 @@ body {
 div {
 	background-color: rgba(35,35,35,0.9);
 	font-family: 'Cantora One', sans-serif;
+	margin: 0 auto;
 }
 div.col-md-3 {
 	background: rgba(35,35,35,0.9) !important;
@@ -38,12 +39,27 @@ h1 {
 	height: 220px;
 	margin-bottom: 25px;
 }
+.paragraph {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	padding: 8px 8px 8px 8px;
+	font-size: 25px;
+	font-family: 'Belleza', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	color:  black;
+	border-clip: padding-box;
+	line-height: 140%;
+  	background: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg");
+  	border: 15px solid rgba(0, 0, 0, 0.3)
+}
 ul {
-  font-size:30px;
-  font-weight: bold;
-  font-style: italic;
-  font-family: 'Cantora One', sans-serif;
-  color: #C12283;
+	font-size:30px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Cantora One', sans-serif;
+	color: #C12283;
 }
 #nav {
 	text-align: center;
@@ -52,8 +68,6 @@ ul {
 	width: inherit;
 	margin: 0 auto;
 	text-align: center;
-	background-color: rgba(35,35,35,0.9);
-	background: rgba(35,35,35,0.9);
 }
 #nav ul {
 	list-style-type: none;
