@@ -399,27 +399,14 @@ h6,
   line-height: 1.1;
   color: inherit;
 }
-h1, .h1 {
-  text-align: center;
-  font-weight: bold;
-  font-size: 80px;
-  text-shadow: 3px 3px #C12283;
-  color: white;
-  font-family: 'Berkshire Swash', cursive;
-  padding: 0px 20px 0px 20px;
-  border-width:15px 25px 15px 25px;
-  border-image: url("http://image.naldzgraphics.net/2012/01/32-floral.jpg") 25 30 10 20 repeat;
-  border-clip: content-box;
-  letter-spacing: 4px;
-  height: 90px;
-  margin-bottom: 0px;
-}
+
  h2, .h2 {
   font-family: ;'Berkshire Swash', sans-serif;
   color: #C12283;
   font-style: italic;
   font-size: 50px;
   text-align: center; 
+  margin-top: 0;
  }
 h1 small,
 h2 small,
