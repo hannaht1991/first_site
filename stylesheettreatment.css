@@ -13,6 +13,7 @@ body {
 }
 div {
 	background-color: rgba(35,35,35,0.9);
+	font-family: 'Cantora One', sans-serif;
 }
 div.col-md-3 {
 	background: rgba(35,35,35,0.9) !important;
