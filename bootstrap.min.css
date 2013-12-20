@@ -297,11 +297,11 @@ table {
           box-sizing: border-box;
 }
 
-html {
+/*html {
   font-size: 62.5%;
   margin: 0 auto;
   background-color: rgba(35,35,35,0.9);
-  /*padding: -40px 0px 0px 0px;*/
+  /*padding: -40px 0px 0px 0px;
   border:8px solid #E0FFFF;
 }
 
@@ -309,7 +309,7 @@ body {
   border: 8px solid #C12283;
   border-clip: padding-box;
   padding: 10px 10px 10px 10px;
-}
+}*/
 
 input,
 button,
@@ -482,15 +482,7 @@ h6 .small {
   font-size: 75%;
 }
 
-h1,
-.h1 {
-  font-size: 36px;
-}
 
-h2,
-.h2 {
-  font-size: 30px;
-}
 
 h3,
 .h3 {
@@ -600,17 +592,12 @@ cite {
   border-bottom: 1px solid #eeeeee;
 }
 
-ul,
-ol {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-
-ul ul,
-ol ul,
-ul ol,
-ol ol {
-  margin-bottom: 0;
+ul {
+  font-size:30px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Cantora One', sans-serif;
+  color: #C12283;
 }
 
 .list-unstyled {
