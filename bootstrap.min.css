@@ -574,14 +574,6 @@ cite {
   border-bottom: 1px solid #eeeeee;
 }
 
-ul {
-  font-size:30px;
-  font-weight: bold;
-  font-style: italic;
-  font-family: 'Cantora One', sans-serif;
-  color: #C12283;
-}
-
 .list-unstyled {
   padding-left: 0;
   list-style: none;
