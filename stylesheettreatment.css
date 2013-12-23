@@ -19,6 +19,14 @@ div.col-md-3 {
 	font-size: 20px;
 	color: #E0FFFF;
 }
+div.col-md-4 {
+	font-size: 20px;
+	color: #E0FFFF;
+}
+div.col-md-2 {
+	font-size: 20px;
+	color: #E0FFFF;
+}
 h1 {
 	text-align: center;
 	font-weight: bold;
