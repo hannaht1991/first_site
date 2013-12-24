@@ -18,6 +18,7 @@ div {
 div.col-md-3 {
 	font-size: 19px;
 	color: white;
+	text-align: justify;
 }
 div.col-md-4 {
 	font-size: 19px;
