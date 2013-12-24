@@ -16,16 +16,20 @@ div {
 	margin: 0 auto;
 }
 div.col-md-3 {
-	font-size: 20px;
-	color: #E0FFFF;
+	font-size: 17px;
+	color: white;
 }
 div.col-md-4 {
-	font-size: 20px;
-	color: #E0FFFF;
+	font-size: 17px;
+	color: white;
 }
 div.col-md-2 {
-	font-size: 20px;
-	color: #E0FFFF;
+	font-size: 17px;
+	color: white;
+}
+#one, #two, #three, #four {
+	font-size: 27px;
+color: #E0FFFF;
 }
 h1 {
 	text-align: center;
