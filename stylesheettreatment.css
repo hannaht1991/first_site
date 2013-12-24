@@ -30,6 +30,7 @@ div.col-md-2 {
 #one, #two, #three, #four {
 	font-size: 23px;
 color: #E0FFFF;
+padding-bottom: 5px;
 }
 h1 {
 	text-align: center;
