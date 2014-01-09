@@ -25,7 +25,8 @@ div.col-md-4, div.col-md-5, div.col-md-3 {
 }
 img {
 	margin-left: 0px;
-	margin-right: 20px;
+	margin-right: 30px;
+	padding-right: 10px;
 }
 
 #one, #two, #three, #four {
