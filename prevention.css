@@ -23,11 +23,7 @@ div.col-md-4, div.col-md-5, div.col-md-3 {
 	color: white;
 	text-align: justify;
 }
-p {
-	color: #C12283;
-	font-size: 18px;
-	text-align: justify
-}
+
 #one, #two, #three, #four {
 	font-size: 23px;
 color: #E0FFFF;
@@ -36,6 +32,7 @@ text-align: center;
 }
 div.col-md-10 {
 	text-align: justify;
+	color: #C12283;
 
 }
 h1 {
