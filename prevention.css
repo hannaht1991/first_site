@@ -15,7 +15,7 @@ div {
 	font-family: 'Cantora One', sans-serif;
 	margin: 0 auto;
 }
-div.BMI {
+span {
 	color: #C12283;
 }
 div.col-md-4, div.col-md-5, div.col-md-3 {
@@ -34,9 +34,9 @@ color: #E0FFFF;
 padding-bottom: 5px;
 text-align: center;
 }
-div.col-md-12 {
+div.col-md-10 {
 	text-align: justify;
-	float: center;
+
 }
 h1 {
 	text-align: center;
