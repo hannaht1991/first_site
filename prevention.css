@@ -23,6 +23,9 @@ div.col-md-4, div.col-md-5, div.col-md-3 {
 	color: white;
 	text-align: justify;
 }
+img {
+	text-align: left;
+}
 
 #one, #two, #three, #four {
 	font-size: 23px;
