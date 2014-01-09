@@ -31,9 +31,9 @@ padding-bottom: 5px;
 text-align: center;
 }
 div.col-md-10 {
-	text-align: justify;
+	text-align: center;
 	color: #C12283;
-
+font-size: 18px;
 }
 h1 {
 	text-align: center;
