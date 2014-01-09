@@ -15,6 +15,9 @@ div {
 	font-family: 'Cantora One', sans-serif;
 	margin: 0 auto;
 }
+div.BMI {
+	color: #C12283;
+}
 div.col-md-4, div.col-md-5, div.col-md-3 {
 	font-size: 19px;
 	color: white;
@@ -22,7 +25,7 @@ div.col-md-4, div.col-md-5, div.col-md-3 {
 }
 p {
 	color: #C12283;
-	font-size: 15px;
+	font-size: 18px;
 	text-align: justify
 }
 #one, #two, #three, #four {
@@ -30,6 +33,10 @@ p {
 color: #E0FFFF;
 padding-bottom: 5px;
 text-align: center;
+}
+div.col-md-12 {
+	text-align: justify;
+	float: center;
 }
 h1 {
 	text-align: center;
