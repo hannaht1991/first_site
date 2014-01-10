@@ -1,4 +1,32 @@
 
+@media (max-width: 480px) {
+	ul {
+		font-size: 18px;
+		font-weight: none;
+	}
+	h1 {
+		font-family:'Cantora One', sans-serif;
+		color: white;
+		font-size: 14px;
+		letter-spacing: 0px;
+		font-weight: none;
+	}
+	h2 {
+		font-size: 20px;
+	}
+	p {
+		font-size: 12px;
+		font-weight: none;
+	}
+	#nav ul {
+margin: 0px 4px 0px 4px;
+	}
+	#nav ul li img {
+	vertical-align: middle;
+	padding-left: 2px;
+}
+}
+
 	
 html {
 	margin: 0 auto;
@@ -135,31 +163,4 @@ p.sent {
 }
 #nav ul ul li a:hover {
 	color: #C12283;
-}
-@media (max-width: 480px) {
-	ul {
-		font-size: 18px;
-		font-weight: none;
-	}
-	h1 {
-		font-family:'Cantora One', sans-serif;
-		color: white;
-		font-size: 14px;
-		letter-spacing: 0px;
-		font-weight: none;
-	}
-	h2 {
-		font-size: 20px;
-	}
-	p {
-		font-size: 12px;
-		font-weight: none;
-	}
-	#nav ul {
-margin: 0px 4px 0px 4px;
-	}
-	#nav ul li img {
-	vertical-align: middle;
-	padding-left: 2px;
-}
 }
