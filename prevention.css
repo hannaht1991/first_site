@@ -129,7 +129,7 @@ ul {
 #nav ul ul li a:hover {
 	color: #C12283;
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 767px) {
 	h1 {font-size: 50px;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
