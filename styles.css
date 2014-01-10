@@ -42,7 +42,7 @@ h1 {
 h2 {
 	font-family:'Cantora One', sans-serif;
 	color: #C12283;
-	font-style: italic;
+	font-style: none;
 	font-size: 45px;
 	text-align: center; 
 	margin-bottom: 3px;
@@ -142,7 +142,7 @@ p.sent {
 		font-weight: none;
 	}
 	h1 {
-		font-size: 24px;
+		font-size: 18px;
 	}
 	h2 {
 		font-size: 20px;
