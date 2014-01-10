@@ -1,3 +1,35 @@
+@media (max-width: 480px) {
+
+	ul {
+		font-size: 13px;
+		font-weight: none;
+	}
+	h1 {
+		font-size: 24;
+		height: 3px;
+	}
+	.paragraph {
+		font-size: 12px;
+		font-weight: none;
+	}
+	#nav ul {
+margin: 0px 4px 0px 4px;
+	}
+	#nav ul li img {
+	vertical-align: middle;
+	padding-left: 2px;
+}
+html {
+	width: 350px;
+}
+body {
+	width: 320px;
+	padding: 0px 0px 0px 0px;
+}
+}
+
+
+
 html {
 	margin: 0 auto;
 	padding: 10px;
@@ -15,20 +47,12 @@ div {
 	font-family: 'Cantora One', sans-serif;
 	margin: 0 auto;
 }
-div.col-md-3 {
-	font-size: 19px;
+div.col-md-3, div.col-sm-3, div.col-xs-6 {
+font-size: 19px;
 	color: white;
 	text-align: justify;
 }
-div.col-md-4 {
-	font-size: 19px;
-	color: white;
-	text-align: justify;
-}
-div.col-md-2 {
-	font-size: 19px;
-	color: white;
-}
+
 #one, #two, #three, #four {
 	font-size: 23px;
 color: #E0FFFF;
