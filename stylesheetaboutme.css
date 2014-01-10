@@ -131,6 +131,7 @@ ul {
 	margin-left: -3px;
 	max-width: 220px;
 }
+
 #nav ul ul li a, visited {
 	color: #C12283;
 	padding-top: 0;
@@ -144,11 +145,15 @@ ul {
 		font-size: 13px;
 		font-weight: none;
 	}
+	img.center {
+	width: 250;
+	height:150;
+}
 	h1 {
 		font-size: 30px;
 		height: 50px;
 	}
-	p {
+	.paragraph {
 		font-size: 12px;
 		font-weight: none;
 	}
@@ -158,5 +163,8 @@ margin: 0px 4px 0px 4px;
 	#nav ul li img {
 	vertical-align: middle;
 	padding-left: 2px;
+}
+div {
+	margin: 0 auto;
 }
 }
