@@ -159,6 +159,8 @@ ul {
 	}
 	p.paragraph {
 		border-width: 5px 10px 5px 10px;
+		margin: 7px 7px 7px 7px;
+	padding: 7px 7px 7px 7px;
 	}
 	#nav ul {
 margin: 0px 2px 0px 2px;
