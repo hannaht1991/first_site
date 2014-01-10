@@ -147,7 +147,7 @@ ul {
 	}
 	img.center {
 	width: 250;
-	height:150;
+	height: 150;
 }
 	h1 {
 		font-size: 30px;
@@ -159,6 +159,9 @@ ul {
 	}
 	#nav ul {
 margin: 0px 4px 0px 4px;
+	}
+	#link {
+		font-size: 18px;
 	}
 	#nav ul li img {
 	vertical-align: middle;
