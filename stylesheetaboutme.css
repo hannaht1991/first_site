@@ -141,7 +141,7 @@ ul {
 }
 @media (max-width: 480px) {
 	ul {
-		font-size: 10px;
+		font-size: 8px;
 		font-weight: none;
 	}
 	img.center {
@@ -163,7 +163,7 @@ ul {
 	padding: 7px 7px 7px 7px;
 	}
 	#nav ul {
-margin: 0px 2px 0px 2px;
+margin: 0px 1px 0px 1px;
 	}
 	#link {
 		font-size: 18px;
