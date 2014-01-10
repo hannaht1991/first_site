@@ -141,7 +141,7 @@ ul {
 }
 @media (max-width: 480px) {
 	ul {
-		font-size: 13px;
+		font-size: 10px;
 		font-weight: none;
 	}
 	img.center {
@@ -172,12 +172,14 @@ margin: 0px 4px 0px 4px;
 }
 p {
 	width: 250px;
+	padding-left: 0px;
+	padding-right: 20px;
 }
 html {
 	width: 350px;
 }
 body {
-	width: 310px;
+	width: 330px;
 	padding: 0px 0px 0px 0px;
 }
 }
