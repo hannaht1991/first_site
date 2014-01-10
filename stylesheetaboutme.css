@@ -145,8 +145,8 @@ ul {
 		font-weight: none;
 	}
 	.arrow {
-		width: 6px;
-		height: 4px;
+		width: 7px;
+		height: 5px;
 	}
 	img.center {
 	width: 250px;
@@ -163,6 +163,10 @@ ul {
 		font-size: 12px;
 		font-weight: none;
 		padding: 10px 10px 10px 10px;
+	}
+	#happy {
+		width: 7px;
+		height: 7px;
 	}
 	p.paragraph {
 		border-width: 5px 10px 5px 10px;
