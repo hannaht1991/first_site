@@ -131,10 +131,12 @@ ul {
 }
 @media screen and (max-width: 780px) {
 	h1 {font-size: 50px;
+		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;}
 }
 @media (min-width: 768px) and (max-width: 1024px) {
 	h1 {font-size: 60px;
+		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;}
 }
 /*@media (max-width: 480px) {
