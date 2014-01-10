@@ -12,7 +12,7 @@ body {
 
 @media (max-width: 480px) {
 	ul {
-		font-size: 16px;
+		font-size: 13px;
 		font-weight: none;
 	}
 	h1 {
@@ -20,7 +20,8 @@ body {
 		height: 50px;
 	}
 	.paragraph {
-		font-size: 14px;
+		font-size: 12px;
+		font-weight: none;
 	}
 	#nav ul {
 margin: 0px 4px 0px 4px;
