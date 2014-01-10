@@ -141,12 +141,12 @@ ul {
 }
 @media (max-width: 480px) {
 	ul {
-		font-size: 8px;
+		font-size: 10px;
 		font-weight: none;
 	}
 	.arrow {
-		width: 3px;
-		height: 2px;
+		width: 6px;
+		height: 4px;
 	}
 	img.center {
 	width: 250px;
