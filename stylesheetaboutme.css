@@ -146,8 +146,8 @@ ul {
 		font-weight: none;
 	}
 	img.center {
-	width: 250;
-	height: 150;
+	width: 250px;
+	height: 150px;
 }
 	h1 {
 		font-size: 30px;
@@ -167,7 +167,7 @@ margin: 0px 4px 0px 4px;
 	vertical-align: middle;
 	padding-left: 2px;
 }
-div {
-	margin: 0 auto;
+p {
+	width: 300px;
 }
 }
