@@ -136,3 +136,24 @@ p.sent {
 #nav ul ul li a:hover {
 	color: #C12283;
 }
+@media (max-width: 480px) {
+	ul {
+		font-size: 13px;
+		font-weight: none;
+	}
+	h1 {
+		font-size: 30px;
+		height: 50px;
+	}
+	p {
+		font-size: 12px;
+		font-weight: none;
+	}
+	#nav ul {
+margin: 0px 4px 0px 4px;
+	}
+	#nav ul li img {
+	vertical-align: middle;
+	padding-left: 2px;
+}
+}
