@@ -145,6 +145,7 @@ p.sent {
 		border: none;
 		font-size: 14px;
 		letter-spacing: 0px;
+		font-weight: none;
 	}
 	h2 {
 		font-size: 20px;
