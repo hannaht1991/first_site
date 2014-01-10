@@ -30,7 +30,7 @@ p {
 }
 body {
 	border: 8px solid #C12283;
-	border-clip: padding-box;
+	/*border-clip: padding-box;*/
 	padding: 10px 10px 10px 10px;
 }
 
@@ -169,5 +169,9 @@ margin: 0px 4px 0px 4px;
 }
 p {
 	width: 300px;
+}
+html {
+	margin: 0 0 0 0;
+
 }
 }
