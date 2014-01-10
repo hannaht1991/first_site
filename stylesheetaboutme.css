@@ -144,9 +144,16 @@ ul {
 		font-size: 8px;
 		font-weight: none;
 	}
+	.arrow {
+		width: 3px;
+		height: 2px;
+	}
 	img.center {
 	width: 250px;
 	height: 130px;
+}
+#nav ul li a, visited {
+	padding: 4px;
 }
 	h1 {
 		font-size: 30px;
