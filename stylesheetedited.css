@@ -13,6 +13,16 @@ body {
 /*div {
 	border: 3px solid white;*/
 }
+@media (max-width: 480px) {
+	ul {
+		font-size: 18px;
+		font-weight: none;
+	}
+	h1 {
+		font-size: 30px;
+		height: 50px;
+	}
+}
 h2 {
 	margin-bottom: 5px;
 }
