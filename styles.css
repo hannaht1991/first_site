@@ -138,7 +138,7 @@ p.sent {
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 767px) {
 	h1 {font-size: 50px;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
@@ -160,11 +160,20 @@ margin: 0px 4px 0px 4px;
 	padding-left: 2px;
 }
 }
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 900px) {
 	h1 {font-size: 60px;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
 		height: 160px;}
-		li {font-size: 20px;}
+		li {font-size: 18px;}
 		#nav ul ul li a {font-size: 20px;}
 	}
+	@media (min-width: 901px) and (max-width: 1024px) {
+	h1 {font-size: 70px;
+		letter-spacing: 0px;
+		padding: 0px 10px 0px 10px;
+		height: 180px;}
+	li {font-size: 22px;}
+	#nav ul ul li a {font-size: 22px;}
+}
+    }
