@@ -143,11 +143,11 @@ ul {
 		font-weight: none;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
-		height: 210px;}
+		height: 220px;}
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
 	img.leptin {
-		width: 550;
+		width: 500px;
 	}
 }
 @media (min-width: 901px) and (max-width: 1024px) {
