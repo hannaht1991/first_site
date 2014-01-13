@@ -153,6 +153,8 @@ ul {
 	img.leptin {
 		width: 600px;
 	}
+	#one, #two, #three, #four {
+		font-size: 22px;
 }
 @media (min-width: 901px) and (max-width: 1024px) {
 	h1 {font-size: 60px;

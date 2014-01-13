@@ -133,7 +133,7 @@ ul {
 		padding: 0px 10px 0px 10px;
 		height: 220px;}
 		.paragraph {
-			font-size: 20px;
+			font-size: 18px;
 			line-height: 120%;
 		}
 	li {font-size: 16px;}
@@ -141,6 +141,10 @@ ul {
 	img.leptin {
 		width: 600px;
 	}
+	#one, #two, #three, #four {
+	font-size: 20px;
+}
+}
 @media (min-width: 900px) and (max-width: 1024px) {
 	h1 {font-size: 60px;
 		letter-spacing: 0px;
