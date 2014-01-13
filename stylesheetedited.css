@@ -156,7 +156,7 @@ margin: 0px 4px 0px 4px;
 		.paragraph {
 			font-weight: none;
 			line-height: 120%;
-			font-size: 17px;
+			font-size: 14px;
 		}
 	}
 	@media (min-width: 901px) and (max-width: 1024px) {
