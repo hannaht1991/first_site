@@ -144,6 +144,9 @@ ul {
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
 		height: 220px;}
+		.paragraph {
+			font-size: 20px;
+		}
 	li {font-size: 16px;}
 	#nav ul ul li a {font-size: 22px;}
 	img.leptin {
