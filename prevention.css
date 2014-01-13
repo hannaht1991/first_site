@@ -147,7 +147,7 @@ ul {
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
 	img.leptin {
-		width: 500px;
+		width: 600px;
 	}
 }
 @media (min-width: 901px) and (max-width: 1024px) {
