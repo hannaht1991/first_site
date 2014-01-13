@@ -156,23 +156,13 @@ ul {
 	#one, #two, #three, #four {
 		font-size: 22px;
 }
-@media (min-width: 901px) and (max-width: 1024px) {
+@media (min-width: 901px) and (max-width: 1300px) {
 	h1 {font-size: 55px;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
 		height: 200px;}
-	li {font-size: 22px;}
+	li {font-size: 18px;}
 	#nav ul ul li a {font-size: 22px;}
-}
-    }
-    @media (min-width: 1025px) and (max-width: 1600px) {
-	h1 {font-size: 60px;
-		letter-spacing: 0px;
-		padding: 0px 10px 0px 10px;
-		height: 190px;}
-	li {font-size: 22px;}
-	#nav ul ul li a {font-size: 22px;}
-}
     }
 /*@me
 dia (max-width: 480px) {
