@@ -139,7 +139,7 @@ ul {
 #nav ul ul li a:hover {
 	color: #C12283;
 }
-@media (max-width: 480px) {
+/*@media (max-width: 480px) {
 	.arrow {
 		width: 7px;
 		height: 5px;
@@ -193,7 +193,7 @@ html {
 body {
 	width: 320px;
 	padding: 0px 0px 0px 0px;
-}
+}*/
 @media screen and (max-width: 767px) {
 	h1 {font-size: 55px;
 		letter-spacing: 0px;
