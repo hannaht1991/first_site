@@ -144,6 +144,9 @@ ul {
 	#one, #two, #three, #four {
 	font-size: 20px;
 }
+#ref {
+	font-size: 16px;
+}
 }
 @media (min-width: 900px) and (max-width: 1024px) {
 	h1 {font-size: 60px;
