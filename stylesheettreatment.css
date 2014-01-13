@@ -18,7 +18,7 @@ div {
 	font-family: 'Cantora One', sans-serif;
 	margin: 0 auto;
 }
-div.col-md-3, div.col-sm-3, div.col-sm-4, div.col-md-4 {
+div.col-md-3, div.col-sm-3, div.col-sm-4, div.col-md-4, div.col-md-2, div.col-sm-2 {
 font-size: 19px;
 	color: white;
 	text-align: justify;
