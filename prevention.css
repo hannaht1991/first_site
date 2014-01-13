@@ -145,7 +145,8 @@ ul {
 		padding: 0px 10px 0px 10px;
 		height: 220px;}
 		.paragraph {
-			font-size: 20px;
+			font-size: 20px;#
+			line-height: 120%;
 		}
 	li {font-size: 16px;}
 	#nav ul ul li a {font-size: 22px;}
