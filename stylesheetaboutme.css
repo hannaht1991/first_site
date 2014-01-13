@@ -202,7 +202,7 @@ body {
 		li {font-size: 16px;}
 	#nav ul ul li a {font-size: 16px;}
 }
-@media (min-width: 768px) and (max-width: 900px) {
+@media (min-width: 768px) and (max-width: 1000px) {
 	h1 {font-size: 65px;
 		font-weight: none;
 		letter-spacing: 0px;
@@ -216,7 +216,7 @@ body {
 	#nav ul ul li a {font-size: 16px;}
 	
 }
-@media (min-width: 901px) and (max-width: 1024px) {
+@media (min-width: 1001px) and (max-width: 1024px) {
 	h1 {font-size: 90px;
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
