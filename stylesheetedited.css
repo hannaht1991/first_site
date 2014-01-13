@@ -59,7 +59,7 @@ div {
 	padding: 8px 8px 8px 8px;
 	font-size: 25px;
 	font-family: 'Cantora One', sans-serif;
-	font-weight: bold;
+	font-weight: none;
 	text-align: justify;
 	color:  black;
 	border-clip: padding-box;
@@ -156,7 +156,7 @@ margin: 0px 4px 0px 4px;
 		.paragraph {
 			font-weight: none;
 			line-height: 120%;
-			font-size: 14px;
+			font-size: 12px;
 			font-family: 'Cantora One', sans-serif;
 		}
 	}
