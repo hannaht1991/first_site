@@ -148,8 +148,8 @@ ul {
 			font-size: 20px;#
 			line-height: 120%;
 		}
-	li {font-size: 16px;}
-	#nav ul ul li a {font-size: 22px;}
+	li {font-size: 20px;}
+	#nav ul ul li a {font-size: 20px;}
 	img.leptin {
 		width: 600px;
 	}

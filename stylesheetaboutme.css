@@ -167,8 +167,8 @@ line-height: 120%;}
 			width: 18px;
 			height: 18px;
 		}
-	li {font-size: 16px;}
-	#nav ul ul li a {font-size: 16px;}
+	li {font-size: 20px;}
+	#nav ul ul li a {font-size: 20px;}
 	
 }
 @media (min-width: 901px) and (max-width: 1024px) {
