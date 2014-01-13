@@ -60,7 +60,7 @@ div {
 	font-size: 25px;
 	font-family: 'Belleza', sans-serif;
 	font-weight: bold;
-	text-align: center;
+	text-align: justify;
 	color:  black;
 	border-clip: padding-box;
 	line-height: 140%;
@@ -157,6 +157,7 @@ margin: 0px 4px 0px 4px;
 			font-weight: none;
 			line-height: 120%;
 			font-size: 14px;
+			font-family: 'Cantora One', sans-serif;
 		}
 	}
 	@media (min-width: 901px) and (max-width: 1024px) {
