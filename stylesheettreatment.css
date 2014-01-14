@@ -69,8 +69,6 @@ ul {
 }
 #exercise {
 	text-align: center;
-	height: 170px;
-	width: 250px;
 }
 #nav {
 	text-align: center;
@@ -130,6 +128,11 @@ ul {
 		letter-spacing: 0px;
 		padding: 0px 10px 0px 10px;
 		height: 170px;}
+	li {font-size: 12px;}
+	#exercise {
+		height: 50px;
+		width: 80px;
+	}
 }
 @media (min-width: 768px) and (max-width: 900px) {
 	h1 {font-size: 51px;
@@ -146,6 +149,10 @@ ul {
 	img.leptin {
 		width: 600px;
 	}
+	#exercise {
+		height: 50px;
+		width: 80px;
+	}
 	#one, #two, #three, #four {
 	font-size: 20px;
 }
@@ -160,4 +167,21 @@ ul {
 		height: 180px;}
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
+	#exercise {
+		width: 200px;
+		height: 120px;
+	}
 }
+@media (min-width: 1025px) and (max-width: 2000px) {
+	#exercise {
+		width: 260px;
+	height: 170px;
+	}}
+
+	@media (min width: 2001) {
+		#exercise {
+			width: 350px;
+			height:250px;
+		}
+	}
+
