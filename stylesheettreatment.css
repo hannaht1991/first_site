@@ -168,8 +168,8 @@ ul {
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
 	#exercise {
-		width: 250px;
-		height: 150px;
+		width: 200px;
+		height: 120px;
 	}
 }
 @media (min-width: 1025px) and (max-width: 1600px) {
