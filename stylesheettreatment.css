@@ -168,17 +168,17 @@ ul {
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
 	#exercise {
-		width: 200px;
-		height: 120px;
+		width: 250px;
+		height: 150px;
 	}
 }
-@media (min-width: 1025px) and (max-width: 2000px) {
+@media (min-width: 1025px) and (max-width: 1600px) {
 	#exercise {
-		width: 260px;
+		width: 270px;
 	height: 170px;
 	}}
 
-	@media (min width: 2001) {
+	@media (min-width: 1601px) {
 		#exercise {
 			width: 350px;
 			height:250px;
