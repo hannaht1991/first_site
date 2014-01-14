@@ -67,6 +67,11 @@ ul {
 	font-family: 'Cantora One', sans-serif;
 	color: #C12283;
 }
+#exercise {
+	text-align: center;
+	height: 170px;
+	width: 250px;
+}
 #nav {
 	text-align: center;
 }
