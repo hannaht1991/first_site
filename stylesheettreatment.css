@@ -150,8 +150,8 @@ ul {
 		width: 600px;
 	}
 	#exercise {
-		height: 50px;
-		width: 80px;
+		height: 90px;
+		width: 150px;
 	}
 	#one, #two, #three, #four {
 	font-size: 20px;
@@ -180,8 +180,8 @@ ul {
 
 	@media (min-width: 1601px) {
 		#exercise {
-			width: 350px;
-			height:250px;
+			width: 400px;
+			height:260px;
 		}
 	}
 
