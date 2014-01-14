@@ -165,25 +165,4 @@ ul {
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
     }
-/*@me
-dia (max-width: 480px) {
-	ul {
-		font-size: 13px;
-		font-weight: none;
-	}
-	h1 {
-		font-size: 20px;
-		height: 30px;
-	}
-	p {
-		font-size: 12px;
-		font-weight: none;
-	}
-	#nav ul {
-margin: 0px 4px 0px 4px;
-	}
-	#nav ul li img {
-	vertical-align: middle;
-	padding-left: 2px;
-}
 }
