@@ -1,6 +1,4 @@
 
-
-
 html {
 	margin: 0 auto;
 	padding: 10px;
@@ -182,6 +180,9 @@ ul {
 		#exercise {
 			width: 400px;
 			height:260px;
+		}
+		h1 {
+			height: 100px;
 		}
 	}
 

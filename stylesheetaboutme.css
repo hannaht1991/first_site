@@ -179,4 +179,13 @@ line-height: 120%;}
 	li {font-size: 22px;}
 	#nav ul ul li a {font-size: 22px;}
 }
+img.center {
+	width: 700px;
+	height: 250px;
+}
     }
+    @media (min-width: 1601px) {
+    	img.center {
+	width: 800px;
+	height: 330px;
+}
