@@ -178,3 +178,8 @@ ul {
 	#nav ul ul li a {font-size: 22px;}
     }
 }
+@media (min-width: 1601px) {
+	#injury {
+width: 650px;
+	}
+	})
