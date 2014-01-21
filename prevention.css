@@ -141,7 +141,7 @@ ul {
 		padding: 0px 10px 0px 10px;
 		height: 170px;}
 	#injury {
-		width: 300px;
+		width: 200px;
 	}
 }
 @media (min-width: 768px) and (max-width: 900px) {
@@ -172,6 +172,9 @@ ul {
 		padding: 0px 10px 0px 10px;
 		height: 180px;}
 	li {font-size: 22px;}
+	#injury {
+		width: 350px;
+	}
 	#nav ul ul li a {font-size: 22px;}
     }
 }
