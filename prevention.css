@@ -130,7 +130,9 @@ ul {
 	color: #C12283;
 }
 #injury {
-	width: 500px;
+	width: 400px;
+	padding-left: 30px;
+	padding-right: 20px;
 }
 
 
